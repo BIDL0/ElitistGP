@@ -1,0 +1,19 @@
+Elitist genetic programming in Python
+
+This project implements a fully featured standalone GENETIC PROGRAMMING system
+with elitist support for solving the SYMBOLIC REGRESSION task. It was originally
+created for the purposes of individual practice for Brno International Summer
+School in Information Technology (BISSIT) 2021 but may be useful as a universal
+tool for education and research. See comments in the source code for details.
+
+Please install the graphviz library from https://pypi.org/project/graphviz/
+for the tree visualizations of resulting functions.
+
+
+                          CREDITS AND LICENSE TERMS
+Elitist genetic programming for symbolic regression by © Michal Bidlo, 2021,
+Brno University of Technology, https://www.fit.vut.cz/person/bidlom/
+
+This software is based on Tiny genetic programming by © Moshe Sipper, available
+on github: https://github.com/moshesipper/tiny_gp, and provided under the terms
+of the GNU GENERAL PUBLIC LICENSE, see https://www.gnu.org/licenses/gpl-3.0.txt.
