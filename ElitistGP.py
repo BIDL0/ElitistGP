@@ -58,7 +58,8 @@
 #    visualization of the resulting tree. By assigning this value to SEED instead of 0   #
 #    you will be able to exactly repeat the successful or interesting experiment.        #
 # 10. Make a screenshot of the window with your most interesting result where the SEED   #
-#     value is visible in the head title of this window and present it to the teacher.   #
+#     value is visible in the head title of this window and present it to the teacher    #
+#     together with your GP settings.                                                    #
 #     Have you found a good solution for your data? Congratulatios!                      #
 #     You have successfully finished the symbolic regression task.                       #
 ##########################################################################################
